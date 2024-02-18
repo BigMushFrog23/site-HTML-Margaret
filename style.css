@@ -1,0 +1,16 @@
+div.content_top {padding-left: 210px}
+header {color: white; background-color: brown;}
+div.content {padding: 1px}
+div.content_middle {padding-left: 210px}
+div.content_bottom {background-color: lightgray; padding-top: 13px; padding-bottom: 13px; padding-right: 5px;}
+div.footer {padding-left: 315px; padding-bottom: 10px; padding-top: 5px; background-color: #333; color: white; opacity: 1}
+body {margin: 0; padding: 0;}
+body {max-width: 940px; margin: 0 auto; padding-bottom: 15px; clear: both; opacity}
+h1 {padding-left: 320px}
+h2 {padding-left: 295px}
+body {background-image: url("img/space.jpg")}
+a { color:red }
+a:visited { text-decoration: none; color:red; }
+a:hover { text-decoration: none; color:blue; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:white }

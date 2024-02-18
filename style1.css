@@ -1,0 +1,12 @@
+header {color: white; background-color: brown;}
+div.footer {padding-left: 315px; padding-bottom: 10px; padding-top: 5px; background-color: #333; color: white; opacity: 1}
+h1 {padding-left: 320px}
+h2 {padding-left: 250px}
+body {margin: 0; padding: 0;}
+body {max-width: 940px; margin: 0 auto; padding-bottom: 15px; padding-top: 60px; clear: both; opacity}
+body {background-image: url("img/apollo_wallpaper.png")}
+a { color:red }
+a:visited { text-decoration: none; color:red; }
+a:hover { text-decoration: none; color:blue; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:white }
